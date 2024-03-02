@@ -1,13 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"python.analysis.typeCheckingMode": "basic",
-		"yaml.schemas": {
-			"https://json.schemastore.org/eslintrc.json": "file:///c%3A/Users/xpos587/Projects/psychopy/env.yml"
-		}
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.analysis.typeCheckingMode": "basic",
+    }
 }

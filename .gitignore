@@ -70,7 +70,7 @@ target/
 .vscode/
 
 # PowerShell
-.WindowsPowerShell/
+/WindowsPowerShell
 
 # Spyder
 .spyproject/
@@ -90,3 +90,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Ruff cache
+.ruff_cache/

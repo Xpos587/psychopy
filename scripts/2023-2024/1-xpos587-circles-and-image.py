@@ -9,7 +9,7 @@ from psychopy import visual, event, core
 win = visual.Window(size=(600, 800))
 
 
-# In[2]:
+# In[3]:
 
 
 circle = visual.Circle(  # type: ignore
@@ -27,7 +27,7 @@ win.flip()
 
 core.wait(2)
 
-image = visual.ImageStim(win, image="../data/raw/cat.jpg")
+image = visual.ImageStim(win, image="../../data/2023-2024/cat.jpg")
 image.ori = 45
 image.size *= 0.272
 image.draw()

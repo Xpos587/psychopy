@@ -1,5 +1,5 @@
 [tool.black]
-line_length = 70
+line-lenght = 80
 
 [tool.ruff]
 line-length = 80
